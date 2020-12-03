@@ -1,7 +1,7 @@
 # Shellhacks-2020
 
 Contributers:
-Brandon Xue, Ernesto Hooghkirk, Jacob Rapmund, Ryan Martinez
+## Brandon Xue, Ernesto Hooghkirk, Jacob Rapmund, Ryan Martinez
 
 Website: https://roundabout-learning.s3-us-west-1.amazonaws.com/preknumbers.html
 
