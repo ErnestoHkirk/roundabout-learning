@@ -1,0 +1,8 @@
+let roulette1 = new RouletteWheel("first_roulette",["about","after","again","all","also","an","any","are","as","ask",
+        "ate","be","been","before","best","big","book","boy","box","but","by","can","car","come","cut","day","did","do","dog",
+        "down","eat","end","every","far","fly","for","form","from","get","give","go","got","had","has","have","he","her","here",
+        "him","his","hot","how","if","is","just","know","let","like","little","live","long","make","man","many","may","more","most",
+        "much","name","next","new","not","of","off","old","once","one","open","or","other","over","our","out","put","round","said","sat",
+        "saw","see","she","shut","some","stop","take","than","thank","that","the","their","them","then","there","they","this","think","three",
+        "two","up","very","was","we","were","what","when","which","who","why","will","with","work","would","year","yes","you",
+        ] ,400, 500, 10, 'random');
