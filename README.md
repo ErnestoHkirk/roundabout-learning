@@ -1,4 +1,4 @@
-# shellhacks-2020
+# Shellhacks-2020
 
 Contributers:
 Brandon Xue, Ernesto Hooghkirk, Jacob Rapmund, Ryan Martinez
